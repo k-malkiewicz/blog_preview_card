@@ -31,7 +31,7 @@ a {
 }
 
 main {
-    width: clamp(0px, 100%, 26.5rem);
+    width: clamp(0px, 100%, 26.25rem);
     padding: 18px;
 }
     
