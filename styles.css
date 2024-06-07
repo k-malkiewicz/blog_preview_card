@@ -62,7 +62,7 @@ article:hover::after {
 }
 
 .blog_img_wrapper {
-    height: 200px;
+    height: 12.5rem;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -110,7 +110,7 @@ article:hover::after {
 }
 
 .author_link {
-    font-size: 14px;
+    font-size: .875rem;
     font-weight: 800;
     display: flex;
     align-items: center;
@@ -118,7 +118,7 @@ article:hover::after {
 }
 
 .author_link img {
-    width: 32px;
+    width: 2rem;
     aspect-ratio: 1;
 }
 
